@@ -44,6 +44,7 @@ while f1_line != '' or f2_line != '':
 
         # Print a blank line
         print()
+        print()
 
     #Read the next line from the file
     f1_line = f1.readline()
